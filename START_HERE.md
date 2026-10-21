@@ -1,0 +1,1 @@
+Upload notebooks/Week3_Unsupervised_Clustering.ipynb to Google Colab, run all cells, review the metrics and cluster profiles, download figures and CSV outputs, and complete reports/Week3_Clustering_Report_DRAFT.docx with actual results before submitting.
